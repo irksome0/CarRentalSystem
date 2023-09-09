@@ -1,0 +1,4 @@
+D:\vsProg\CarRentalSystem\x64\Debug\CarRentalSystem.exe
+D:\vsProg\CarRentalSystem\x64\Debug\CarRentalSystem.vcxproj.MdMergeInputs.cache
+D:\vsProg\CarRentalSystem\x64\Debug\CarRentalSystem.vcxproj.cppwinrt_plat.cache
+D:\vsProg\CarRentalSystem\x64\Debug\CarRentalSystem.vcxproj.cppwinrt_comp.cache
